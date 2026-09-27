@@ -1,0 +1,272 @@
+{
+  "defaults": {
+    "treatment": "Kasallikni erta aniqlash muhim. Bargini yuvib, yaxshi shamollatish va ehtiyotkor pestitsid ishlatish kerak. Oqibatda qoldiq qolgan barglarni yo‘q qiling.",
+    "prevention": "Bargni yumshoq, sog‘lom va quyoshli joyda saqlang. Sug‘orish va ventilyatsiyani tekshiring."
+  },
+  "Apple___Apple_scab": {
+    "uzbek_name": "Olma va apple scab",
+    "disease": "Olma qizarishi",
+    "plant": "Olma",
+    "treatment": "Barglarni tekshirib, kasal qismlarni olib tashlang. Molyar, sulfat yoki tavsiya qilingan fungitsid bilan ishlov berish kerak. Suv va havo aylanishini yaxshilang.",
+    "prevention": "Barglarni quruq qolgan holda sug‘ormang, daraxt oralig‘ini havo aylanishi uchun bo‘sh qoldiring."
+  },
+  "Tomato___Late_blight": {
+    "uzbek_name": "Pomidor va kechki chirish",
+    "disease": "Pomidorning kechgi chirishi",
+    "plant": "Pomidor",
+    "treatment": "Kasal barg va mevalarni olib tashlang. O‘simlikni ruxsat etilgan fungitsid bilan ishlang. Suvning bargga tegib qolmasligi uchun tomchilatib sug‘orishdan foydalaning.",
+    "prevention": "Yomg‘irdan keyin barglar quruguncha kutib, havo aylanishini yaxshilang."
+  },
+  "Tomato___Early_blight": {
+    "uzbek_name": "Pomidor va erta chirish",
+    "disease": "Pomidorning erta chirishi",
+    "plant": "Pomidor",
+    "treatment": "Barglarning pastki qismini olib tashlang. Yer osti qismida namlikni kamaytirish uchun sug‘orish vaqtini kechga o‘tkazing. Fungitsid ishlatishingiz mumkin.",
+    "prevention": "Daraxtlarni yupqacha, yetarlicha oraliqda eking. Namlik va shilimshiqlikni kamaytiring."
+  },
+  "Potato___Late_blight": {
+    "uzbek_name": "Kartoshka va kechgi chirish",
+    "disease": "Kartoshka kechgi chirishi",
+    "plant": "Kartoshka",
+    "treatment": "Kasal tomirlar va barglarni olib tashlang. Mavjud fungitsid bilan davolashni davom eting. Uyumli va to‘g‘ri sug‘orish qoidalarini bering.",
+    "prevention": "Tuproqni quruq saqlang, sug‘orishni kechqurun qiling va dalani havo aylanishi uchun bo‘sh qoldiring."
+  },
+  "Grape___Black_rot": {
+    "uzbek_name": "Uzum va qora chirish",
+    "disease": "Uzumning qora chirishi",
+    "plant": "Uzum",
+    "treatment": "Kasal novdalarni olib tashlang, shikastlangan mevalarni to‘plang. Fungitsid bilan ishlov berish kerak. O‘simlikni chiroyli shamollatib turing.",
+    "prevention": "Yomg‘ir suvini bargga to‘g‘ri tushmasligiga etibor bering. Havo aylanishini yaxshilang."
+  },
+  "Corn_(maize)___Northern_Leaf_Blight": {
+    "uzbek_name": "Makkajo‘xori va shimoliy barg chirishi",
+    "disease": "Makkajo‘xori shimoliy barg chirishi",
+    "plant": "Makkajo‘xori",
+    "treatment": "Kasal barglarni olib tashlang. Fungitsid bilan ishlov berish maqsadga muvofiq. Dala qoldiqlarini yo‘q qiling.",
+    "prevention": "Dala orasini yaxshi shamollatib, sug‘orishni nazorat qiling."
+  },
+  "Apple___Black_rot": {
+    "uzbek_name": "Olma qora chirishi",
+    "disease": "Qora chirish",
+    "plant": "Olma",
+    "treatment": "Qoraygan meva va zararlangan shoxlarni olib tashlab, daladan chiqaring. Kuchli zararlanishda mahalliy tavsiyaga muvofiq fungitsid qo‘llang.",
+    "prevention": "Mumiyolangan mevalar va kesilgan shoxlarni yig‘ishtiring, daraxt tojini siyrak tutib havo aylanishini yaxshilang."
+  },
+  "Apple___Cedar_apple_rust": {
+    "uzbek_name": "Olma sadr zang kasalligi",
+    "disease": "Sadr-olma zang kasalligi",
+    "plant": "Olma",
+    "treatment": "Zararlangan barglarni yig‘ib yo‘q qiling. Zararlanish kuchli bo‘lsa, hududingizda ro‘yxatdan o‘tgan fungitsid bo‘yicha agronom bilan maslahatlashing.",
+    "prevention": "Olma daraxtlarini yaxshi shamollating va yaqin atrofdagi archa o‘simliklarida zang alomatlarini kuzating."
+  },
+  "Apple___healthy": {
+    "uzbek_name": "Sog‘lom olma",
+    "disease": "Sog‘lom",
+    "plant": "Olma",
+    "treatment": "Kasallik belgisi aniqlanmadi. Odatdagi parvarishni davom ettiring va barglarni kuzatib boring.",
+    "prevention": "Daraxtni me’yorida sug‘oring, tojini shamollating va to‘kilgan barg-mevalarni yig‘ishtiring."
+  },
+  "Blueberry___healthy": {
+    "uzbek_name": "Sog‘lom ko‘k mevali buta",
+    "disease": "Sog‘lom",
+    "plant": "Ko‘k mevali buta",
+    "treatment": "Kasallik belgisi aniqlanmadi. Mavjud parvarish tartibini davom ettiring.",
+    "prevention": "Tuproq namligini barqaror saqlang, butalarni shamollating va barglarni muntazam tekshiring."
+  },
+  "Cherry_(including_sour)___healthy": {
+    "uzbek_name": "Sog‘lom gilos",
+    "disease": "Sog‘lom",
+    "plant": "Gilos",
+    "treatment": "Kasallik belgisi aniqlanmadi. Odatdagi parvarishni davom ettiring.",
+    "prevention": "Daraxt tojini shamollating, sug‘orishda barglarni ortiqcha ho‘llamang va to‘kilgan qoldiqlarni yig‘ing."
+  },
+  "Cherry_(including_sour)___Powdery_mildew": {
+    "uzbek_name": "Gilos un shudringi",
+    "disease": "Un shudringi",
+    "plant": "Gilos",
+    "treatment": "Zararlangan novda va barglarni kesib olib yo‘q qiling. Zararlanish davom etsa, mahalliy tavsiyaga mos fungitsidni mutaxassis bilan tanlang.",
+    "prevention": "Daraxtlarni siyrak shakllantiring, havo aylanishini yaxshilang va ortiqcha azotli o‘g‘itdan saqlaning."
+  },
+  "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+    "uzbek_name": "Makkajo‘xori serkospora va kulrang barg dog‘lanishi",
+    "disease": "Serkospora barg dog‘lanishi",
+    "plant": "Makkajo‘xori",
+    "treatment": "Kuchli zararlangan barglarni va hosildan keyingi o‘simlik qoldiqlarini daladan chiqaring. Fungitsid zarurligini agronom bilan baholang.",
+    "prevention": "Almashlab ekishni qo‘llang, chidamli nav tanlang va o‘simlik qoldiqlarini dalada qoldirmang."
+  },
+  "Corn_(maize)___Common_rust_": {
+    "uzbek_name": "Makkajo‘xori oddiy zang kasalligi",
+    "disease": "Oddiy zang",
+    "plant": "Makkajo‘xori",
+    "treatment": "Zang belgilari kengaysa, zararlanish darajasini agronomga ko‘rsating; fungitsidni faqat mahalliy yo‘riqnoma asosida qo‘llang.",
+    "prevention": "Zangga chidamli navlardan foydalaning, dalani kuzatib boring va o‘simlik qoldiqlarini boshqaring."
+  },
+  "Corn_(maize)___healthy": {
+    "uzbek_name": "Sog‘lom makkajo‘xori",
+    "disease": "Sog‘lom",
+    "plant": "Makkajo‘xori",
+    "treatment": "Kasallik belgisi aniqlanmadi. Odatdagi parvarishni davom ettiring.",
+    "prevention": "Almashlab eking, sug‘orish va oziqlantirishni me’yorlang, barglarni muntazam tekshiring."
+  },
+  "Grape___Esca_(Black_Measles)": {
+    "uzbek_name": "Uzum esca kasalligi",
+    "disease": "Esca (qora qizamiq) kasalligi",
+    "plant": "Uzum",
+    "treatment": "Zararlangan tok qismlarini quruq havoda sog‘lom to‘qimagacha kesib, asboblarni har kesishdan keyin dezinfeksiya qiling. Kuchli zararlangan tokni mutaxassis bilan baholang.",
+    "prevention": "Tokni kesish jarohatlarini kamaytiring, kesilgan joylarni himoyalang va kasallangan qoldiqlarni daladan olib chiqing."
+  },
+  "Grape___healthy": {
+    "uzbek_name": "Sog‘lom uzum",
+    "disease": "Sog‘lom",
+    "plant": "Uzum",
+    "treatment": "Kasallik belgisi aniqlanmadi. Tokni odatdagi tartibda parvarish qiling.",
+    "prevention": "Toklarni me’yorida siyraklang, havo aylanishini ta’minlang va sug‘orishda barglarni ho‘llashni kamaytiring."
+  },
+  "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+    "uzbek_name": "Uzum barg kuyishi va Isariopsis dog‘lanishi",
+    "disease": "Isariopsis barg dog‘lanishi",
+    "plant": "Uzum",
+    "treatment": "Zararlangan barglarni va tok qoldiqlarini yig‘ib yo‘q qiling. Kasallik tarqalsa, mahalliy ro‘yxatdan o‘tgan vositani agronom tavsiyasi bilan qo‘llang.",
+    "prevention": "Tok qatorlarini shamollating, sug‘orish usulini moslang va mavsum oxirida qoldiqlarni daladan chiqaring."
+  },
+  "Orange___Haunglongbing_(Citrus_greening)": {
+    "uzbek_name": "Sitrus ko‘kargan kasalligi",
+    "disease": "Sitrus greening (Huanglongbing)",
+    "plant": "Apelsin",
+    "treatment": "Bu kasallikni uy sharoitida davolab bo‘lmaydi. Gumon qilingan daraxtni ajrating va fitosanitariya xizmati yoki agronomga zudlik bilan murojaat qiling.",
+    "prevention": "Sog‘lom ko‘chatdan foydalaning, tashuvchi hasharotlarni kuzating va kasallik gumonini tegishli xizmatga xabar qiling."
+  },
+  "Peach___Bacterial_spot": {
+    "uzbek_name": "Shaftoli bakterial dog‘lanishi",
+    "disease": "Bakterial dog‘lanish",
+    "plant": "Shaftoli",
+    "treatment": "Zararlangan shox va mevalarni olib tashlang. Bakterial kasallikka qarshi vositani faqat hududiy tavsiya va yorliq bo‘yicha qo‘llang.",
+    "prevention": "Kasalliksiz ko‘chat eking, daraxt tojini shamollating va barglarni ho‘llaydigan sug‘orishni kamaytiring."
+  },
+  "Peach___healthy": {
+    "uzbek_name": "Sog‘lom shaftoli",
+    "disease": "Sog‘lom",
+    "plant": "Shaftoli",
+    "treatment": "Kasallik belgisi aniqlanmadi. Odatdagi parvarishni davom ettiring.",
+    "prevention": "Daraxtni me’yorida sug‘oring, tojini shamollating va barg-mevalarni muntazam ko‘zdan kechiring."
+  },
+  "Pepper,_bell___Bacterial_spot": {
+    "uzbek_name": "Bolgar qalampiri bakterial dog‘lanishi",
+    "disease": "Bakterial dog‘lanish",
+    "plant": "Bolgar qalampiri",
+    "treatment": "Kuchli zararlangan barg va mevalarni olib tashlang. Ish qurollarini tozalang va bakterial kasallik uchun vosita tanlashda agronom tavsiyasiga amal qiling.",
+    "prevention": "Sog‘lom urug‘ va ko‘chat ishlating, almashlab eking va nam barglar orasida ishlashdan saqlaning."
+  },
+  "Pepper,_bell___healthy": {
+    "uzbek_name": "Sog‘lom bolgar qalampiri",
+    "disease": "Sog‘lom",
+    "plant": "Bolgar qalampiri",
+    "treatment": "Kasallik belgisi aniqlanmadi. Odatdagi parvarishni davom ettiring.",
+    "prevention": "Me’yorida sug‘oring, ekin orasida havo aylanishini ta’minlang va barglarni muntazam tekshiring."
+  },
+  "Potato___Early_blight": {
+    "uzbek_name": "Kartoshka erta kuyishi",
+    "disease": "Erta kuyish (Alternaria dog‘lanishi)",
+    "plant": "Kartoshka",
+    "treatment": "Zararlangan barglarni olib tashlang, hosil qoldiqlarini yig‘ing va kasallik kuchaysa, fungitsidni agronom ko‘rsatmasi bilan qo‘llang.",
+    "prevention": "Almashlab eking, sog‘lom urug‘likdan foydalaning va sug‘orishda barglarni uzoq vaqt nam qoldirmang."
+  },
+  "Potato___healthy": {
+    "uzbek_name": "Sog‘lom kartoshka",
+    "disease": "Sog‘lom",
+    "plant": "Kartoshka",
+    "treatment": "Kasallik belgisi aniqlanmadi. Ekin holatini kuzatib, parvarishni davom ettiring.",
+    "prevention": "Sertifikatlangan urug‘lik eking, almashlab eking va daladagi o‘simlik qoldiqlarini boshqaring."
+  },
+  "Raspberry___healthy": {
+    "uzbek_name": "Sog‘lom malina",
+    "disease": "Sog‘lom",
+    "plant": "Malina",
+    "treatment": "Kasallik belgisi aniqlanmadi. Mavjud parvarish tartibini davom ettiring.",
+    "prevention": "Qatorlarni shamollating, eski novdalarni olib tashlang va tuproq namligini me’yorida saqlang."
+  },
+  "Soybean___healthy": {
+    "uzbek_name": "Sog‘lom soya",
+    "disease": "Sog‘lom",
+    "plant": "Soya",
+    "treatment": "Kasallik belgisi aniqlanmadi. Odatdagi parvarishni davom ettiring.",
+    "prevention": "Almashlab eking, namlikni kuzating va barglarda dog‘ yoki so‘lish alomatlarini muntazam tekshiring."
+  },
+  "Squash___Powdery_mildew": {
+    "uzbek_name": "Qovoq un shudringi",
+    "disease": "Un shudringi",
+    "plant": "Qovoq",
+    "treatment": "Kuchli zararlangan barglarni olib tashlang. Zararlanish tarqalsa, qovoq ekinida ruxsat etilgan vositani yorliq bo‘yicha qo‘llang.",
+    "prevention": "O‘simliklar orasida havo aylanishini ta’minlang, barglarni quruq tuting va kasallik qoldiqlarini yig‘ing."
+  },
+  "Strawberry___healthy": {
+    "uzbek_name": "Sog‘lom qulupnay",
+    "disease": "Sog‘lom",
+    "plant": "Qulupnay",
+    "treatment": "Kasallik belgisi aniqlanmadi. Odatdagi parvarishni davom ettiring.",
+    "prevention": "Ko‘chatlarni shamollaydigan qilib joylashtiring, sug‘orishda barglarni ho‘llamang va eski barglarni yig‘ing."
+  },
+  "Strawberry___Leaf_scorch": {
+    "uzbek_name": "Qulupnay barg kuyishi",
+    "disease": "Barg kuyishi",
+    "plant": "Qulupnay",
+    "treatment": "Kuygan va qurigan barglarni olib tashlang. Zararlanish kuchaysa, tashxisni agronom bilan tasdiqlang.",
+    "prevention": "Sog‘lom ko‘chat eking, qatorlarni shamollating va sug‘orishni tuproq namligiga moslang."
+  },
+  "Tomato___Bacterial_spot": {
+    "uzbek_name": "Pomidor bakterial dog‘lanishi",
+    "disease": "Bakterial dog‘lanish",
+    "plant": "Pomidor",
+    "treatment": "Zararlangan barg va mevalarni ajratib olib yo‘q qiling, ish qurollarini dezinfeksiya qiling. Bakterial kasallikda vositani agronom tavsiyasi bilan tanlang.",
+    "prevention": "Sog‘lom urug‘ va ko‘chat ishlating, almashlab eking, barglarni ho‘llaydigan sug‘orishdan saqlaning."
+  },
+  "Tomato___healthy": {
+    "uzbek_name": "Sog‘lom pomidor",
+    "disease": "Sog‘lom",
+    "plant": "Pomidor",
+    "treatment": "Kasallik belgisi aniqlanmadi. Odatdagi parvarishni davom ettiring.",
+    "prevention": "O‘simliklarni shamollatib joylashtiring, me’yorida sug‘oring va barglarni muntazam tekshiring."
+  },
+  "Tomato___Leaf_Mold": {
+    "uzbek_name": "Pomidor barg mog‘ori",
+    "disease": "Barg mog‘ori",
+    "plant": "Pomidor",
+    "treatment": "Zararlangan barglarni olib tashlang va issiqxona yoki ekin oralig‘ini shamollating. Zaruratda ruxsat etilgan fungitsidni yorliq bo‘yicha qo‘llang.",
+    "prevention": "Havo namligini pasaytiring, barglar orasida havo aylanishini yaxshilang va sug‘orishda barglarni ho‘llamang."
+  },
+  "Tomato___Septoria_leaf_spot": {
+    "uzbek_name": "Pomidor septoriya barg dog‘lanishi",
+    "disease": "Septoriya barg dog‘lanishi",
+    "plant": "Pomidor",
+    "treatment": "Zararlangan pastki barglarni ehtiyotkorlik bilan olib tashlang va daladan chiqaring. Kasallik kuchaysa, mahalliy tavsiyaga muvofiq fungitsid tanlang.",
+    "prevention": "Almashlab eking, o‘simlik qoldiqlarini yo‘q qiling va barglarga suv sachratmasdan sug‘oring."
+  },
+  "Tomato___Spider_mites Two-spotted_spider_mite": {
+    "uzbek_name": "Pomidor o‘rgimchakkana zarari",
+    "disease": "Ikki nuqtali o‘rgimchakkana",
+    "plant": "Pomidor",
+    "treatment": "Barglarning ostini tekshiring, zararlangan qismlarni olib tashlang. Zararkunandaga qarshi ro‘yxatdan o‘tgan vositani yorliq va agronom tavsiyasiga muvofiq ishlating.",
+    "prevention": "Ekinni muntazam kuzating, begona o‘tlarni boshqaring va foydali hasharotlarni asrang."
+  },
+  "Tomato___Target_Spot": {
+    "uzbek_name": "Pomidor nishon dog‘ kasalligi",
+    "disease": "Nishon dog‘",
+    "plant": "Pomidor",
+    "treatment": "Zararlangan barglarni olib tashlang, ekinni shamollating va kasallik kengaysa, fungitsidni mahalliy ko‘rsatma asosida qo‘llang.",
+    "prevention": "Almashlab eking, barglarni quruq tuting va mavsum oxirida o‘simlik qoldiqlarini daladan chiqaring."
+  },
+  "Tomato___Tomato_mosaic_virus": {
+    "uzbek_name": "Pomidor mozaika virusi",
+    "disease": "Pomidor mozaika virusi",
+    "plant": "Pomidor",
+    "treatment": "Virusli o‘simlikni davolovchi vosita yo‘q. Zararlangan o‘simlikni ajratib, ehtiyotkorlik bilan olib tashlang va asboblarni dezinfeksiya qiling.",
+    "prevention": "Sog‘lom urug‘ va ko‘chatdan foydalaning, qo‘l hamda asboblarni tozalang va tamaki mahsulotlarini ekinga yaqin ishlatmang."
+  },
+  "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+    "uzbek_name": "Pomidor sariq barg buralish virusi",
+    "disease": "Sariq barg buralish virusi",
+    "plant": "Pomidor",
+    "treatment": "Virusga qarshi davo yo‘q. Kuchli zararlangan o‘simliklarni olib tashlang va oqkanot tarqalishini kuzatib, agronom bilan choralarni belgilang.",
+    "prevention": "Sog‘lom ko‘chat eking, oqkanot tashuvchisini kuzating, begona o‘tlarni yo‘qoting va himoya to‘rlaridan foydalaning."
+  }
+}
